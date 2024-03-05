@@ -34,7 +34,7 @@ export default function Cardiology(){
                 </div>
                 <div className="col-md-8 mt-5 mb-5">
                     <div className="col-12">
-                    <img src="https://swasthyahospital.com/img/department/department22.jpg" className="cardio_img"/>
+                    <img src="https://swasthyahospital.com/img/department/department22.jpg" className="cardio_img" alt=""/>
 
                     <h3 className="font-weight-bold mt-3 ">Obstetrics & Gynaecology</h3>
                     <p className="mt-3">The Obstetrics & Gynaecology department of offers the most advanced comprehensive care for all Gynaecological health conditions for patients of all ages. The department is known for its highly skilled maternity service with antenatal, postnatal and family planning clinics added. The labor ward is well equipped with delivery beds, Cardiac & Medicine, ultrasound machines, etc. The facilities for an epidural block for painless labor 

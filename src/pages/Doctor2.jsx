@@ -23,7 +23,7 @@ export default function Doctor2(){
                 <div className="col-12">
                 <div className="card doct_card p-0">
                     <div className="card-body">
-                        <img  src="https://swasthyahospital.com/img/team/team21.png" className="doctor1_img"/>
+                        <img  src="https://swasthyahospital.com/img/team/team21.png" className="doctor1_img" alt=""/>
                         <h3 className="font-weight-bold mt-2">Dr Renuka A Pathak</h3>
                         <p>Consultant Obstetrician, Gynaecologist</p>
                         <p className="text-primary">M.D , DNB (OBGYN) Obstetrics and Gynaecology</p>

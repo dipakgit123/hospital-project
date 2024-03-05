@@ -6,7 +6,7 @@ export default function Footer(){
     <div className="container-fluid bg-dark p-5 text-white">
         <div className="row">
             <div className="col-md-4">
-                <img src="https://www.swasthyahospital.com/img/footerlogo.png"/>
+                <img src="https://www.swasthyahospital.com/img/footerlogo.png" alt=""/>
                 <p className="mt-2 text-justify">Wide range of medical services like diagnostic, treatment, speciality clinics, ICU units, emergency rooms & surgery.</p>
                 <h6><i  class=" mr-2 fa-solid fa-location-dot"></i>Annabhau Sathe Chowk, Laltaki, Ahmednagar 414001</h6>
                 <p><i  class="  mr-2 fa-solid fa-phone-flip"> </i>0241-2344301, 2341311, 2430530</p>

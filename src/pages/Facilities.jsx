@@ -70,7 +70,7 @@ export default  function Facilities(){
                    return(
                     <>
                     <div className="col-md-4 mt-5"  >
-                        <img src={item.photo} className="facility_img "/>
+                        <img src={item.photo} className="facility_img " alt=""/>
                         <div className="text_1">
                             <h3 className="text-white text font-weight-bold">{item.text}</h3>
                         </div>

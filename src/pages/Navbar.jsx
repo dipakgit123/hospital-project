@@ -27,7 +27,7 @@ export default function Nav(){
         <div className="container-fluid bg-white mb-2 sticky-top ">
             <div className="row">
                 <div className="col-5 col-md-3">
-                    <img src="https://www.swasthyahospital.com/img/logo.png" className="mt-2 w-100"/>
+                    <img src="https://www.swasthyahospital.com/img/logo.png" className="mt-2 w-100" alt=""/>
                 </div>
                 <div className=" col-7 col-md-7">
                 <nav className="navbar navbar-expand-lg navbar-light d-flex justify-content-center ">

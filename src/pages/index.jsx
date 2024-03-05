@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+
 import "./style.css";
 export default function Index(){
 
@@ -80,7 +80,7 @@ export default function Index(){
         <div className="container">
           <div className="row">
             <div className="col-md-6 mt-5 mb-5">
-              <img  src=" https://swasthyahospital.com/img/about/about1.png"/>
+              <img  src=" https://swasthyahospital.com/img/about/about1.png" alt=""/>
             </div>
             <div className="col-md-6 mt-5 mb-5">
               <h2>Welcome To <span className="text-primary">Swasthya</span> Hospital & MRC</h2>
@@ -128,7 +128,7 @@ export default function Index(){
    <h2 className="font-weight-bold text-center" >Call: 0241 243 0530</h2>
     </div> 
     <div className="col-md-6 mt-5">
-    <img src="https://swasthyahospital.com/img/ambulance.jpg"/>
+    <img src="https://swasthyahospital.com/img/ambulance.jpg" alt=""/>
     </div>
   </div>
 </div>
@@ -136,7 +136,7 @@ export default function Index(){
 <div className="container mt-5 mb-5">
   <div className="row">
     <div className="col-md-6 ">
-    <img src="https://swasthyahospital.com/img/figure/figure9.jpg " className="img_dep"/>
+    <img src="https://swasthyahospital.com/img/figure/figure9.jpg " className="img_dep" alt=""/>
     </div> 
     <div className="col-md-6 ">
     <h3>We are the trusted experts things simple</h3>
@@ -154,7 +154,6 @@ export default function Index(){
   </div>
 </div>
 <div className="container col-md-12">
-   <marquee className=" bg-primary text-white font-weight-bold" height="50" width="100%" ><h1>Please Call Now: 0241-2344301, 2341311, 2430530</h1></marquee>
 </div>
         </>
     )

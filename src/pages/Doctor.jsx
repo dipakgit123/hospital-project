@@ -51,7 +51,7 @@ export default function Doctor(){
                         <div className="row">
                  <div className="col-4">
 
-                    <img  src={item.photo} className="doctor_img rounded-circle mt-5"/>
+                    <img  src={item.photo} className="doctor_img rounded-circle mt-5" alt=""/>
                  </div>
                  <div className="col-8">
                     <h3>{item.name}</h3>

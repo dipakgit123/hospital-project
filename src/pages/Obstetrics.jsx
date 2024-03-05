@@ -33,7 +33,7 @@ export default function Obstetrics(){
                 </div>
                 <div className="col-md-8 mt-5 mb-5">
                     <div className="col-12">
-                    <img src="https://swasthyahospital.com/img/department/department21.jpg" className="cardio_img"/>
+                    <img src="https://swasthyahospital.com/img/department/department21.jpg" className="cardio_img" alt=""/>
 
                     <h3 className="font-weight-bold mt-3 ">Cardiology</h3>
                     <p className="mt-3">The hospital is well equipped with all the modern equipments to ensure treatment for the patients with any cardiac problem. The team of Cardiologists, Cath Lab and non-invasive lab technicians have wide experience in the management of all complex cardiac problems. The latest techniques in the field of Pacing and Coronary angioplasties are being routinely performed at the Hospital.
