@@ -1,0 +1,104 @@
+.color_format_back{
+    background-color: #396CF0;
+}
+.color_format_text{
+color: #396CF0;
+}
+
+.nav-link{
+    color: black !important;
+    font-weight: bold;
+}
+.nav-item{
+    margin-top: 10px;
+}
+.dropdown-menu{
+display: none !important;
+}
+.slider_icon{
+    border-radius: 50%;
+    background-color:#3498db;
+    height: 40px;
+    width: 40px;
+}
+.nav-item:hover .dropdown-menu{
+    display: inline-block !important;
+    color: #396CF0;
+}
+.doctor_page_banner{
+    height: 200px;
+    background-image: url('images/figure2.jpg');
+    background-size: 100% 100%;
+}
+
+.cashless_page_banner{
+    height: 200px;
+    background-image: url('images/figure3.jpg');
+    background-size: 100% 100%;
+}
+.facilities_page_banner{
+    height: 200px;
+    background-image: url('images/figure3.jpg');
+    background-size: 100% 100%;
+}
+.follow_btn:hover .i{
+    background-color:  #396CF0;
+}
+.hover-element{
+    .hover-element {
+        background-color: #3498db; /* Default background color */
+        color: #ffffff; /* Default text color */
+        padding: 10px;
+        transition: background-color 0.3s ease, color 0.3s ease; /* Transition for smooth effect */
+      }
+}
+.hover-element:hover {
+    background-color:#ea1578; /* New background color on hover */
+    color: #ffffff; /* New text color on hover */
+  }
+.img_dep{
+    height:100%;
+    width:100%
+}
+.facility_img{
+    height:100%;
+    width:100%;
+    border-radius: 10px;
+    overflow: hidden;
+ 
+}
+.facility_img:hover{
+    transform: scale(1.1) rotate(0deg);
+    transition: smooth;
+}
+
+.text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    opacity: 0;
+    transition: smooth;
+   
+}
+
+
+.text:hover{
+    opacity: 1;
+    background-color: #3498db;
+  }
+
+  .cardio_img{
+    height: 100%;
+    width:100%;
+  }
+ 
+  .doctor1_img{
+    height: 100%;
+    width: 100%;
+  }
+.doct_card{
+    height: 50%;
+    width: 100%;
+    border: none;
+}
